@@ -4,7 +4,7 @@
 </div>
 
 <div align="center"> 
-  <img src="readme_img/python.png" width="250">
+  <img src="https://raw.githubusercontent.com/karlbehrensg/programacion-dinamica-y-estocastica/master/readme_img/python.png" width="250">
 </div>
 
 # Itroduction
@@ -23,7 +23,7 @@ Statistical programming topics.
 La serie de _Fibonacci_ se representa como `Fn = Fn-1 + Fn-2` y es muy simple implementarla de forma recursiva en código. Sin embargo es muy ineficiente hacerlo simplemente recursivo, ya que repetimos varias veces el mismo computo.
 
 <div align="center"> 
-  <img src="readme_img/fibonnaci-algoritmo.jpeg" width="80%">
+  <img src="https://github.com/karlbehrensg/programacion-dinamica-y-estocastica/blob/master/readme_img/fibonnaci-algoritmo.jpeg" width="80%">
   <p>Algoritmo de Fibonnaci</p>
 </div>
 
