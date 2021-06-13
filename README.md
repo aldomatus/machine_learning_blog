@@ -15,6 +15,8 @@ Statistical programming topics.
 - [Dynamic programming](#Dynamic-programming)
     - [Introduction to Dynamic Programming](#Introduction-to-Dynamic-Programming)
     - [Fibonacci optimization](#Fibonacci-optimization)
+- [Statistics](#Statistics)
+    - [Combinatorial analysis](#combinatorial-analysis)
 
 # Dynamic programming
 
@@ -67,3 +69,15 @@ if __name__ == '__main__':
     resultado = fibonacci_dinamico(n)
     print(resultado)
 ```
+# Statistics
+## Combinatorial analysis
+Una permutación de un conjunto de elementos, es una disposición de dichos elementos teniendo en cuenta el orden. Una combinación de un conjunto de elementos, es una selección de dichos elementos sin tener en cuenta el orden.
+
+La diferencia entre permutaciones y combinaciones, es que en las permutaciones importa el orden de los elementos, mientras que en las combinaciones no importa el orden en que se disponen los elementos (solo importa su presencia).
+
+Veamos algunos conceptos adicionales, ejemplos y ejercicios resueltos.
+
+Permutaciones
+Una permutación de un conjunto de elementos, es una disposición de dichos elementos teniendo en cuenta el orden. El número de permutaciones de “n” elementos tomados de “k” en “k” se calcula con la fórmula:
+
+<img href= "https://matemovil.com/wp-content/uploads/2018/10/permutaciones-f%C3%B3rmula.jpg" alt="permutaciones">
